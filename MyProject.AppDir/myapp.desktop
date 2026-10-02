@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=My Project
+Exec=main.sh
+Icon=icon
+Terminal=true
+Categories=Utility;
